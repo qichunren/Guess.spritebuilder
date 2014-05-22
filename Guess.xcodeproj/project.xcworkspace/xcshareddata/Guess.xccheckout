@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4A38B32D-A8B1-4F8C-81B9-DDFB79E3EAFE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Guess</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>26C1B92A-B0FF-479D-910F-C519CCC995BE</key>
+		<string>ssh://github.com/qichunren/Guess.spritebuilder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Guess.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>26C1B92A-B0FF-479D-910F-C519CCC995BE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/qichunren/Guess.spritebuilder.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>26C1B92A-B0FF-479D-910F-C519CCC995BE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>26C1B92A-B0FF-479D-910F-C519CCC995BE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Guess.spritebuilder</string>
+		</dict>
+	</array>
+</dict>
+</plist>
